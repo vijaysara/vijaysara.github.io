@@ -4,11 +4,10 @@
    box-sizing: border-box;
 }
 body{
-  background-image: url('nathan.jpg');
+  background-image: url("nathan.jpg");
   background-size: cover;
   background-position: center;
- 
-  font-family: sans-serif;
+ font-family: sans-serif;
 
 }
 .menu-bar
